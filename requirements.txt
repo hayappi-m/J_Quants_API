@@ -2,3 +2,4 @@ papermill
 pandas
 requests
 ipykernel
+gspread
